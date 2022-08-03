@@ -1,0 +1,13 @@
+body, #root {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+}
+
+a {
+  color: cornflowerblue
+}
+
+.monospace {
+  font-family: Courier, Monospace;
+}

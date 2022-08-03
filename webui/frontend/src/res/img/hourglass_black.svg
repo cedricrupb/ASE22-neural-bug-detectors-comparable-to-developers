@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg3806"
+   sodipodi:docname="sanduhr.svg"
+   viewBox="0 0 260.19 378.16"
+   version="1.1"
+   inkscape:version="0.91 r13725">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="base"
+     bordercolor="#666666"
+     inkscape:pageshadow="2"
+     inkscape:window-y="0"
+     fit-margin-left="0"
+     pagecolor="#ffffff"
+     inkscape:window-height="1002"
+     inkscape:window-maximized="1"
+     inkscape:zoom="0.98994949"
+     inkscape:window-x="0"
+     showgrid="false"
+     borderopacity="1.0"
+     inkscape:current-layer="layer1"
+     inkscape:cx="287.33295"
+     inkscape:cy="79.654337"
+     fit-margin-top="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1680"
+     inkscape:pageopacity="0.0"
+     inkscape:document-units="px" />
+  <g
+     id="layer1"
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     transform="translate(-215.72 -364.22)">
+    <path
+       id="path3814"
+       sodipodi:nodetypes="ccccc"
+       style="fill:none;stroke:#000;stroke-width:20"
+       inkscape:connector-curvature="0"
+       d="M 465.71,732.36 C 466.72,540.94 225.86,540.88 226.87,374.21 l 239.05,0 c 1.0102,166.68 -240.2,168.24 -240.2,358.15 79.95265,0 160.00203,0 239.99,0 z" />
+    <path
+       id="path4324"
+       sodipodi:nodetypes="cccc"
+       style="fill:#000"
+       inkscape:connector-curvature="0"
+       d="m273.75 473.54c62.629 24.244 82.833 22.223 149.5-1.0102l-76.772 71.721z" />
+    <path
+       id="path4326"
+       sodipodi:nodetypes="ccccc"
+       style="fill:#000"
+       inkscape:connector-curvature="0"
+       d="m233.35 698.81c113.14-93.944 113.14-93.944 225.26 0l8.0812 34.345h-240.42z" />
+  </g>
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>hourglass</dc:title>
+        <dc:date>2012-12-18T11:10:14</dc:date>
+        <dc:description>A simple hourglass.</dc:description>
+        <dc:source>https://openclipart.org/detail/173841/hourglass-by-matzekatze-173841</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>matzekatze</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>glass</rdf:li>
+            <rdf:li>icon</rdf:li>
+            <rdf:li>measure</rdf:li>
+            <rdf:li>picto</rdf:li>
+            <rdf:li>pictogram</rdf:li>
+            <rdf:li>sand</rdf:li>
+            <rdf:li>simple</rdf:li>
+            <rdf:li>time</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
