@@ -12,7 +12,8 @@ In this section, we provide a comprehensive instruction to install and run the a
 **Dependencies:** All scripts and implementations are tested under Python 3.8, NodeJS 16 and Java 17 (OpenJDK). The scripts are mainly tested on machines running Linux (Debian). However, an installation under Windows or Mac OS X should also be possible.
 
 To follow the instructions below, please make sure that the following libraries are installed:
-`python` (evaluation), `pip` (evaluation), `openjdk` (web backend), `maven` (web backend) and `nodejs` (web frontend).
+`Python 3.8` (evaluation), `PIP` (evaluation), `Open JDK 17` (web backend), `Maven` (web backend) and `NodeJS 16` (web frontend).
+Optional: SQL database for the web interface.
 
 ## 1.1 Web UI for the survey
 The web interface for performing the survey with our participants consists of a web frontend (`webui/frontend`) and a backend (`webui/backend`). The front end is used to display the website for the user. In the backend, we have implemented the business logic and the storage mechanism (`webui/database`).
